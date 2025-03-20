@@ -16,13 +16,11 @@ body {
 
 .modal {
   display: flex;
-  flex-direction: column;
   background: white;
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
-  padding: 16px; /* Fixed to match solution */
-  gap: 16px;
+  padding: 16px;
 }
 
 .icon {
